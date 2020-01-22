@@ -1,4 +1,4 @@
 #  Weather-App-Using-Nodejs
-! google map API
+use google map API
 
 <img src="image.jpg">
